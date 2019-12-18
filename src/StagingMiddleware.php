@@ -2,6 +2,8 @@
 
 namespace Nicolasc\StagingMiddleware;
 
+use Closure;
+
 class StagingMiddleware
 {
     /**
