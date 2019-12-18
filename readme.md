@@ -1,2 +1,2 @@
 # Staging Middleware
-Add x-tag
+Add x-robots-tag to headers to prevent indexing of staging environment
