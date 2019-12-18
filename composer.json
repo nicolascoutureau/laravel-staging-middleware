@@ -1,0 +1,17 @@
+{
+    "name": "nicolasc/laravel-staging-middleware",
+    "description": "Add x-robots-tag to staging environnement",
+    "authors": [
+        {
+            "name": "Nicolas",
+            "email": "nicolas.c@digireward.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Nicolasc\\StagingMiddleware\\": "src"
+        }
+    }
+}
